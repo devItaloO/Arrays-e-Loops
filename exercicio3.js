@@ -13,7 +13,7 @@ const numbers = [1, 3, 5, 8, 14, 62];
 // o exemplo acima deu certo
 
 let soma = 0;
-
+// para ("para algo", "enquanto isso for verdade", "será feito isso")
 for (let i = 0; i < numbers.length; i++) {
     //será executado para i de 0 até o ultimo
     soma = soma + numbers[i];
